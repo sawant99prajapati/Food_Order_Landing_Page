@@ -1,2 +1,2 @@
-# Food_Order_Landing_Page
-Simple responsive web app landing page for food ordering site
+# Responsive-Web-Page
+Responsive Web Page for Online Food Delivery Services
